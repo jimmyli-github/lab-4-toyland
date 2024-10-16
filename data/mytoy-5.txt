@@ -1,0 +1,5 @@
+LEGO Lego_Castle_Set 125
+LEGO Lego_Island_Set 150
+LEGO Lego_House_Set 130
+LEGO Lego_Ship_Set 105
+LEGO Lego_Car_Set 100
